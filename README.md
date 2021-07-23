@@ -1,3 +1,3 @@
 # TFLiteDemo
 
-<img src=https://imgur.com/a/FyTe056.gif>
+<img src='https://imgur.com/a/FyTe056.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
